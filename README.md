@@ -19,7 +19,7 @@ Output at Epoch 1:
 
 ![Fake Image 0000](fake_images-0000.png)
 
-Output at Epoch 1:
+Output at Epoch 50:
 
 ![Fake Image 0050](fake_images-0050.png)
 
