@@ -13,4 +13,16 @@ Please make sure to update tests as appropriate.
 
 ## Outputs : 
 
+<h2> Please refer the .avi file for a video output of all the images combined <h2>
+
+Output at Epoch 1:
+
 ![Fake Image 0000](fake_images-0000.png)
+
+Output at Epoch 1:
+
+![Fake Image 0050](fake_images-0050.png)
+
+Output at Epoch 100:
+
+![Fake Image 0100](fake_images-0100.png)
